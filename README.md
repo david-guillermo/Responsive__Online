@@ -1,4 +1,4 @@
-# NoveFlex
+# 📱💻🖥 NoveFlex
 Una plataforma web que busca mejorar la manera en la que se desarrollan paginas web, mostrando diferentes resoluciones de pantallas desde dispositivos Móviles a Computadoras o grandes resoluciones.
 ---
 
