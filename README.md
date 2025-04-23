@@ -24,14 +24,6 @@ Planes futuros para el proyecto:
 - [ ] Mejora de interfaz.
 - [ ] Agregar funciones.
 - [ ] Corrección de errores.
-
----
-
-## Licencia
-
-Este proyecto está licenciado bajo la licencia [Nombre de la Licencia](LICENSE).  
-(Copia el texto de la licencia en un archivo `LICENSE` en el repositorio).
-
 ---
 
 ## Contacto
